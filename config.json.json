@@ -1,0 +1,6 @@
+{
+  "backup_dir": "./backups",
+  "logs_dir": "./logs",
+  "api_endpoint": "https://api.synthetix.ai/v1/analyze",
+  "timeout": 5
+}
